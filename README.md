@@ -1,7 +1,7 @@
 # 👋 Hi, I'm avilesejm-design
 ### UX Designer & Full-Stack Developer | Specializing in L&D Solutions
 
-I design and develop digital tools focused on optimizing learning processes and data management. My approach combines "Lean" architectures with efficient user flows to deliver high-impact educational experiences [cite: 2026-02-18].
+I design and develop digital tools focused on optimizing learning processes and data management. My approach combines "Lean" architectures with efficient user flows to deliver high-impact educational experiences.
 
 ---
 
@@ -27,9 +27,9 @@ I design and develop digital tools focused on optimizing learning processes and 
 ---
 
 ## 🛠️ Skills & Tools
-* **UX/UI**: Information Architecture, User Research, Interaction Design [cite: 2026-02-18].
+* **UX/UI**: Information Architecture, User Research, Interaction Design.
 * **Dev**: JavaScript (ES6+), Supabase, REST APIs, Serverless Workflows.
-* **L&D**: Learning Experience Design (LXD), Data-driven training solutions [cite: 2026-02-18].
+* **L&D**: Learning Experience Design (LXD), Data-driven training solutions.
 
 ---
-📫 **Contact**: avilesejm@gmail.com [cite: 2026-02-10]
+📫 **Contact**: avilesejm@gmail.com
