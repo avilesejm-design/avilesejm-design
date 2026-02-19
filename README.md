@@ -1,35 +1,18 @@
-# 👋 Hi, I'm avilesejm-design
-### UX Designer & Full-Stack Developer | Specializing in L&D Solutions
+# Hi, I'm avilesejm-design 👋
+### UX Designer & Full-Stack Developer | Specialized in L&D
 
-I design and develop digital tools focused on optimizing learning processes and data management. My approach combines "Lean" architectures with efficient user flows to deliver high-impact educational experiences.
-
----
+I design and build digital experiences that optimize learning. My work focuses on reducing cognitive load and creating data-driven instructional tools.
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/avilesejm-design/iconicas-remeras/main/social-preview.png" alt="Iconicas Remeras UI" style="border-radius:10px;">
-      <h3>👕 <a href="https://github.com/avilesejm-design/iconicas-remeras">Camisetas Icónicas</a></h3>
-      <p>Full-Stack E-commerce solution with serverless backend and real-time search.</p>
-      <p><b>UX Focus:</b> Zero-cost infrastructure and high-performance catalog exploration.</p>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/avilesejm-design/master-catalog-template/main/social-preview.png" alt="Master Catalog UI" style="border-radius:10px;">
-      <h3>📊 <a href="https://github.com/avilesejm-design/master-catalog-template">Master Catalog Template</a></h3>
-      <p>Dynamic L&D resource management system powered by Google Sheets.</p>
-      <p><b>UX Focus:</b> Empowering non-technical admins with a familiar CMS interface.</p>
-    </td>
-  </tr>
-</table>
+### 🧠 English Level Tracker (Adaptive Assessment)
+A smart testing engine that determines language proficiency using adaptive logic.
+* **UX focus:** Adaptive questioning to prevent learner fatigue.
+* **Tech:** JavaScript, Supabase Auth & DB.
 
----
+### 📚 Master Catalog (Educational Resource Management)
+While it looks commercial, this system is a prototype for managing large-scale educational assets.
+* **UX focus:** Efficient categorization and high-speed search for instructional designers.
 
-## 🛠️ Skills & Tools
-* **UX/UI**: Information Architecture, User Research, Interaction Design.
-* **Dev**: JavaScript (ES6+), Supabase, REST APIs, Serverless Workflows.
-* **L&D**: Learning Experience Design (LXD), Data-driven training solutions.
-
----
-📫 **Contact**: avilesejm@gmail.com
+### 👕 Iconic Jerseys (Gamified Catalog Prototype)
+An exploration of how visual storytelling can be applied to digital catalogs.
