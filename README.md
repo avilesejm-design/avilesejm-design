@@ -1,28 +1,35 @@
-# 👋 Hola, soy avilesejm-design
-### UX Designer & Full-Stack Developer | Especialista en Soluciones para L&D
+# 👋 Hi, I'm avilesejm-design
+### UX Designer & Full-Stack Developer | Specializing in L&D Solutions
 
-Me dedico a diseñar y desarrollar herramientas digitales que optimizan los procesos de aprendizaje y gestión de datos, utilizando arquitecturas "Lean" y flujos de usuario eficientes [cite: 2026-02-18].
-
----
-
-## 🚀 Proyectos Destacados
-
-### 👕 [Camisetas Icónicas - E-Commerce](https://github.com/avilesejm-design/iconicas-remeras)
-Solución Full-Stack con backend serverless. 
-* **UX Focus**: Búsqueda en tiempo real y arquitectura de costo cero.
-* **Tecnología**: JavaScript, Google Apps Script, Netlify.
-
-### 📊 [Master Catalog Template - Smart Library](https://github.com/avilesejm-design/master-catalog-template)
-Sistema de catálogo dinámico para gestión de recursos.
-* **UX Focus**: Gestión de contenido vía Google Sheets para perfiles no-técnicos.
-* **Tecnología**: JavaScript, Google Sheets API.
+I design and develop digital tools focused on optimizing learning processes and data management. My approach combines "Lean" architectures with efficient user flows to deliver high-impact educational experiences [cite: 2026-02-18].
 
 ---
 
-## 🛠️ Skills & Herramientas
-* **UX/UI**: Arquitectura de información, User Research, Prototipado.
-* **Dev**: JavaScript (ES6+), Supabase, Integration APIs.
-* **L&D**: Diseño de experiencias de aprendizaje, Data-driven learning.
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/avilesejm-design/iconicas-remeras/main/social-preview.png" alt="Iconicas Remeras UI" style="border-radius:10px;">
+      <h3>👕 <a href="https://github.com/avilesejm-design/iconicas-remeras">Camisetas Icónicas</a></h3>
+      <p>Full-Stack E-commerce solution with serverless backend and real-time search.</p>
+      <p><b>UX Focus:</b> Zero-cost infrastructure and high-performance catalog exploration.</p>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/avilesejm-design/master-catalog-template/main/social-preview.png" alt="Master Catalog UI" style="border-radius:10px;">
+      <h3>📊 <a href="https://github.com/avilesejm-design/master-catalog-template">Master Catalog Template</a></h3>
+      <p>Dynamic L&D resource management system powered by Google Sheets.</p>
+      <p><b>UX Focus:</b> Empowering non-technical admins with a familiar CMS interface.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-📫 **Contacto**: avilesejm@gmail.com
+
+## 🛠️ Skills & Tools
+* **UX/UI**: Information Architecture, User Research, Interaction Design [cite: 2026-02-18].
+* **Dev**: JavaScript (ES6+), Supabase, REST APIs, Serverless Workflows.
+* **L&D**: Learning Experience Design (LXD), Data-driven training solutions [cite: 2026-02-18].
+
+---
+📫 **Contact**: avilesejm@gmail.com [cite: 2026-02-10]
