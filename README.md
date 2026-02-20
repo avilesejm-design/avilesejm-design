@@ -1,4 +1,4 @@
-# Hi, I'm avilesejm-design 👋
+# Hi, I'm Eleazar 👋
 ### UX Designer & Full-Stack Developer | Specialized in L&D
 
 I design and build digital experiences that optimize learning. My work focuses on reducing cognitive load and creating data-driven instructional tools.
