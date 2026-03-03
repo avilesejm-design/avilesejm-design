@@ -5,6 +5,12 @@ I design and build digital experiences that optimize learning. My work focuses o
 
 ## 🚀 Featured Projects
 
+AI Persona Chat Platform > Role: UX Designer & Developer (L&D Specialist)
+
+Key Achievement: Designed and developed an immersive chat interface for education, integrating Node.js with Large Language Models. I implemented a "Lean" architecture that decouples persona logic (JSON) from the UI, significantly enhancing student engagement through specialized interaction design.
+
+🔗 Watch Video Demo | Explore Repository
+
 ### 🧠 English Level Tracker (Adaptive Assessment)
 A smart testing engine that determines language proficiency using adaptive logic.
 * **UX focus:** Adaptive questioning to prevent learner fatigue.
