@@ -31,4 +31,4 @@ An exploration of how visual storytelling and interactive catalogs can be applie
 * **Dev:** Node.js, JavaScript, JSON Architectures, Supabase.
 * **Mindset:** Lean Implementation—Building high-impact tools with efficient, scalable code.
 
-📫 **How to reach me:** [Your LinkedIn Link or Email here]
+📫 **How to reach me:** avilesejm@gmail.com
