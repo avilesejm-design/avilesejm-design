@@ -1,5 +1,5 @@
 # Hi, I'm Eleazar 👋
-### UX Designer & Full-Stack Developer | Specialized in L&D
+### UX for L&D + Technical Implementation (Lean Approach)
 
 I design and build digital experiences that optimize learning. My work focuses on reducing cognitive load and creating data-driven instructional tools.
 
